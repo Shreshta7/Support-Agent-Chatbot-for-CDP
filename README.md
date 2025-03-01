@@ -15,15 +15,15 @@ Sample conversations with customer support chatbots. Conversations with chatbots
 results. Chatbot answers are in grey bubbles.
 
 ## [AppleSupport](https://twitter.com/AppleSupport)
-![Apple](conversations/apple.png)
+![Apple](apple.png)
 ## [AmazonHelp](https://twitter.com/AmazonHelp)
-![Amazon](conversations/amazon.png)
+![Amazon](amazon.png)
 ## [Uber_Support](https://twitter.com/Uber_Support)
-![Uber](conversations/uber.png)
+![Uber](uber.png)
 ## [Delta](https://twitter.com/Delta)
-![Delta](conversations/delta.png)
+![Delta](delta.png)
 ## [SpotifyCares](https://twitter.com/SpotifyCares)
-![Spotify](conversations/spotify.png)
+![Spotify](spotify.png)
 
 # Dataset 
 Dataset used for training chatbot can be found 
